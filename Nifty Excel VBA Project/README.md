@@ -1,2 +1,2 @@
 
-The task was to automate the recordings of Nifty and Bank Nifty prizes in Excel sheet.
+The task was to automate the recordings of Nifty and Bank Nifty prizes in Excel sheet in regular interval of time.
